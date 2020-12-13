@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BindingInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Assembly="Microsoft.BizTalk.Deployment, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Version="3.5.1.0" BindingStatus="NoBindings" BoundEndpoints="0" TotalEndpoints="0">
+  <Timestamp>2020-12-13T23:18:03.871799+00:00</Timestamp>
+  <ModuleRefCollection>
+    <ModuleRef Name="[Application:POC.BizTalk.AlwaysEncrypted]" Version="" Culture="" PublicKeyToken="" FullName="[Application:POC.BizTalk.AlwaysEncrypted], Version=, Culture=, PublicKeyToken=">
+      <Services />
+      <TrackedSchemas>
+        <Schema FullName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData" RootName="ArrayOfTypedPollingResultSet0" AssemblyQualifiedName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData,POC.BizTalk.AlwaysEncrypted, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c16cab63ae24c55" AlwaysTrackAllProperties="false">
+          <TrackedPropertyNames />
+        </Schema>
+        <Schema FullName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData" RootName="TypedPolling" AssemblyQualifiedName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData,POC.BizTalk.AlwaysEncrypted, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c16cab63ae24c55" AlwaysTrackAllProperties="false">
+          <TrackedPropertyNames />
+        </Schema>
+        <Schema FullName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData" RootName="TypedPollingResultSet0" AssemblyQualifiedName="POC.BizTalk.AlwaysEncrypted.SQL_TypedPolling_getData,POC.BizTalk.AlwaysEncrypted, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c16cab63ae24c55" AlwaysTrackAllProperties="false">
+          <TrackedPropertyNames />
+        </Schema>
+      </TrackedSchemas>
+    </ModuleRef>
+    <ModuleRef Name="POC.BizTalk.AlwaysEncrypted" Version="1.0.0.0" Culture="neutral" PublicKeyToken="9c16cab63ae24c55" FullName="POC.BizTalk.AlwaysEncrypted, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c16cab63ae24c55">
+      <Services />
+      <TrackedSchemas />
+    </ModuleRef>
+  </ModuleRefCollection>
+  <SendPortCollection>
+    <SendPort Name="SendPort3" IsStatic="true" IsTwoWay="false" BindingOption="0" AnalyticsEnabled="false">
+      <Description xsi:nil="true" />
+      <TransmitPipeline Name="Microsoft.BizTalk.DefaultPipelines.PassThruTransmit" FullyQualifiedName="Microsoft.BizTalk.DefaultPipelines.PassThruTransmit, Microsoft.BizTalk.DefaultPipelines, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Type="2" TrackingOption="ServiceStartEnd MessageSendReceive InboundMessageBody OutboundMessageBody PipelineEvents" Description="" />
+      <PrimaryTransport>
+        <Address>C:\BizTalkPorts\POC\EncryptedColumn\%MessageID%.xml</Address>
+        <TransportType Name="FILE" Capabilities="11" ConfigurationClsid="5e49e3a6-b4fc-4077-b44c-22f34a242fdb" />
+        <TransportTypeData>&lt;CustomProps&gt;&lt;UseTempFileOnWrite vt="11"&gt;0&lt;/UseTempFileOnWrite&gt;&lt;AllowCacheOnWrite vt="11"&gt;0&lt;/AllowCacheOnWrite&gt;&lt;CopyMode vt="19"&gt;1&lt;/CopyMode&gt;&lt;FileName vt="8"&gt;%MessageID%.xml&lt;/FileName&gt;&lt;/CustomProps&gt;</TransportTypeData>
+        <RetryCount>3</RetryCount>
+        <RetryInterval>5</RetryInterval>
+        <ServiceWindowEnabled>false</ServiceWindowEnabled>
+        <FromTime>2020-12-13T00:00:00</FromTime>
+        <ToTime>2020-12-13T23:59:59</ToTime>
+        <Primary>true</Primary>
+        <OrderedDelivery>false</OrderedDelivery>
+        <DeliveryNotification>1</DeliveryNotification>
+        <SendHandler Name="BizTalkServerSendHost" HostTrusted="false">
+          <TransportType Name="FILE" Capabilities="11" ConfigurationClsid="5e49e3a6-b4fc-4077-b44c-22f34a242fdb" />
+        </SendHandler>
+      </PrimaryTransport>
+      <SecondaryTransport>
+        <Address />
+        <RetryCount>3</RetryCount>
+        <RetryInterval>5</RetryInterval>
+        <ServiceWindowEnabled>false</ServiceWindowEnabled>
+        <FromTime>2020-12-13T00:00:00</FromTime>
+        <ToTime>2020-12-13T23:59:59</ToTime>
+        <Primary>false</Primary>
+        <OrderedDelivery>false</OrderedDelivery>
+        <DeliveryNotification>1</DeliveryNotification>
+        <SendHandler xsi:nil="true" />
+      </SecondaryTransport>
+      <ReceivePipelineData xsi:nil="true" />
+      <Tracking>0</Tracking>
+      <Filter>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Filter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Group&gt;
+    &lt;Statement Property="BTS.ReceivePortName" Operator="0" Value="WcfReceivePort_SqlAdapterBinding_TypedPolling_getData_Custom" /&gt;
+  &lt;/Group&gt;
+&lt;/Filter&gt;</Filter>
+      <Transforms />
+      <OrderedDelivery>false</OrderedDelivery>
+      <Priority>5</Priority>
+      <StopSendingOnFailure>false</StopSendingOnFailure>
+      <RouteFailedMessage>false</RouteFailedMessage>
+      <ApplicationName>POC.BizTalk.AlwaysEncrypted</ApplicationName>
+    </SendPort>
+  </SendPortCollection>
+  <DistributionListCollection />
+  <ReceivePortCollection>
+    <ReceivePort Name="WcfReceivePort_SqlAdapterBinding_TypedPolling_getData_Custom" IsTwoWay="false" BindingOption="0" AnalyticsEnabled="false">
+      <Description>ReceivePort for SqlAdapterBinding.</Description>
+      <ReceiveLocations>
+        <ReceiveLocation Name="WcfReceiveLocation_SqlAdapterBinding_TypedPolling_getData_Custom">
+          <Description xsi:nil="true" />
+          <Address>mssql://.//BTSDemoEncryptedColumn?InboundId=getData</Address>
+          <PublicAddress />
+          <Primary>true</Primary>
+          <ReceiveLocationServiceWindowEnabled>false</ReceiveLocationServiceWindowEnabled>
+          <ReceiveLocationFromTime>2000-01-01T00:00:00</ReceiveLocationFromTime>
+          <ReceiveLocationToTime>2000-01-01T23:59:59</ReceiveLocationToTime>
+          <ReceiveLocationStartDateEnabled>false</ReceiveLocationStartDateEnabled>
+          <ReceiveLocationStartDate>2000-01-01T00:00:00</ReceiveLocationStartDate>
+          <ReceiveLocationEndDateEnabled>false</ReceiveLocationEndDateEnabled>
+          <ReceiveLocationEndDate>2000-01-01T23:59:59</ReceiveLocationEndDate>
+          <ReceiveLocationTransportType Name="WCF-Custom" Capabilities="907" ConfigurationClsid="af081f69-38ca-4d5b-87df-f0344b12557a" />
+          <ReceiveLocationTransportTypeData>&lt;CustomProps&gt;&lt;BindingConfiguration vt="8"&gt;&amp;lt;binding name="SqlAdapterBinding" receiveTimeout="Infinite" maxConnectionPoolSize="100" encrypt="false" workstationId="" useAmbientTransaction="true" batchSize="20" ApplicationIntent="ReadWrite" MultiSubnetFailover="true" ApplicationName="" ColumnEncryptionSetting="Enabled" polledDataAvailableStatement="SELECT 1" pollingStatement="SELECT [EmployeeId]&amp;amp;#xD;&amp;amp;#xA;      ,[Name]&amp;amp;#xD;&amp;amp;#xA;      ,[Gender]&amp;amp;#xD;&amp;amp;#xA;      ,[IBAN]&amp;amp;#xD;&amp;amp;#xA;      ,[Address]&amp;amp;#xD;&amp;amp;#xA;  FROM [BTSDemoEncryptedColumn].[dbo].[Employee]" pollingIntervalInSeconds="30" pollWhileDataFound="false" pollingSqlReceiveTimeout="00:10:00" notificationStatement="" notifyOnListenerStart="true" enableBizTalkCompatibilityMode="true" chunkSize="4194304" inboundOperationType="TypedPolling" useDatabaseNameInXsdNamespace="false" allowIdentityInsert="false" acceptCredentialsInUri="false" enablePerformanceCounters="false" xmlStoredProcedureRootNodeName="" xmlStoredProcedureRootNodeNamespace="" /&amp;gt;&lt;/BindingConfiguration&gt;&lt;InboundNodeEncoding vt="8"&gt;Xml&lt;/InboundNodeEncoding&gt;&lt;BindingType vt="8"&gt;sqlBinding&lt;/BindingType&gt;&lt;Identity vt="8" /&gt;&lt;IncludeExceptionDetailInFaults vt="11"&gt;0&lt;/IncludeExceptionDetailInFaults&gt;&lt;OutboundBodyLocation vt="8"&gt;UseBodyElement&lt;/OutboundBodyLocation&gt;&lt;OrderedProcessing vt="11"&gt;0&lt;/OrderedProcessing&gt;&lt;InboundBodyLocation vt="8"&gt;UseBodyElement&lt;/InboundBodyLocation&gt;&lt;CredentialType vt="8"&gt;None&lt;/CredentialType&gt;&lt;SuspendMessageOnFailure vt="11"&gt;0&lt;/SuspendMessageOnFailure&gt;&lt;DisableLocationOnFailure vt="11"&gt;0&lt;/DisableLocationOnFailure&gt;&lt;OutboundXmlTemplate vt="8"&gt;&amp;lt;bts-msg-body xmlns="http://www.microsoft.com/schemas/bts2007" encoding="xml"/&amp;gt;&lt;/OutboundXmlTemplate&gt;&lt;/CustomProps&gt;</ReceiveLocationTransportTypeData>
+          <ReceivePipeline Name="Microsoft.BizTalk.DefaultPipelines.XMLReceive" FullyQualifiedName="Microsoft.BizTalk.DefaultPipelines.XMLReceive, Microsoft.BizTalk.DefaultPipelines, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Type="1" TrackingOption="None" Description="" />
+          <ReceivePipelineData xsi:nil="true" />
+          <SendPipeline xsi:nil="true" />
+          <SendPipelineData xsi:nil="true" />
+          <Enable>false</Enable>
+          <ReceiveHandler Name="BizTalkServerReceiveHost" HostTrusted="false">
+            <TransportType Name="WCF-Custom" Capabilities="907" ConfigurationClsid="af081f69-38ca-4d5b-87df-f0344b12557a" />
+          </ReceiveHandler>
+          <ScheduleRecurrenceType>None</ScheduleRecurrenceType>
+          <ScheduleRecurenceFrom>2020-12-13T00:00:00</ScheduleRecurenceFrom>
+          <ScheduleRecurrenceInterval>1</ScheduleRecurrenceInterval>
+          <ScheduleDaysOfWeek>None</ScheduleDaysOfWeek>
+          <ScheduleMonths>None</ScheduleMonths>
+          <ScheduleMonthDays>None</ScheduleMonthDays>
+          <ScheduleOrdinalDayOfWeek>None</ScheduleOrdinalDayOfWeek>
+          <ScheduleOrdinalType>None</ScheduleOrdinalType>
+          <ScheduleIsOrdinal>false</ScheduleIsOrdinal>
+          <ScheduleLastDayOfMonth>false</ScheduleLastDayOfMonth>
+          <ScheduleAutoAdjustToDaylightSaving>true</ScheduleAutoAdjustToDaylightSaving>
+          <ScheduleTimeZone>UTC</ScheduleTimeZone>
+        </ReceiveLocation>
+      </ReceiveLocations>
+      <SendPipelineData xsi:nil="true" />
+      <Authentication>0</Authentication>
+      <Tracking>0</Tracking>
+      <Transforms />
+      <RouteFailedMessage>false</RouteFailedMessage>
+      <ApplicationName>POC.BizTalk.AlwaysEncrypted</ApplicationName>
+    </ReceivePort>
+  </ReceivePortCollection>
+  <PartyCollection xsi:nil="true" />
+</BindingInfo>

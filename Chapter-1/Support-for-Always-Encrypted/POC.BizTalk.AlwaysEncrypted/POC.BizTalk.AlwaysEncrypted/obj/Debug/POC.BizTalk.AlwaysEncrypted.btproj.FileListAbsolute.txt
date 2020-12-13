@@ -1,0 +1,6 @@
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\bin\Debug\POC.BizTalk.AlwaysEncrypted.dll
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\bin\Debug\POC.BizTalk.AlwaysEncrypted.pdb
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\obj\Debug\POC.BizTalk.AlwaysEncrypted.btprojAssemblyReference.cache
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\obj\Debug\POC.BizTalk.AlwaysEncrypted.btproj.CoreCompileInputs.cache
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\obj\Debug\POC.BizTalk.AlwaysEncrypted.dll
+C:\DEV\POC\POC.BizTalk.AlwaysEncrypted\POC.BizTalk.AlwaysEncrypted\obj\Debug\POC.BizTalk.AlwaysEncrypted.pdb
