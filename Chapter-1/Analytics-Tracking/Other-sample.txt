@@ -1,0 +1,5 @@
+customEvents
+| where timestamp >= ago(180h)
+| summarize dcount(user_Id), count() by name
+| top 10 by count_
+| render barchart 

@@ -1,0 +1,3 @@
+customEvents 
+ | where customDimensions.ServiceClassID == "59f295b0-3123-416e-966b-a2c6d65ff8e6" and customDimensions.PortType == "ReceivePort" and name endswith "_Receive"
+ | summarize count() by replace(@'_Receive', @'', tostring(name)) 
