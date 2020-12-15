@@ -80,10 +80,31 @@
     </Schema>
   </ItemGroup>
   <ItemGroup>
+    <XLang Include="POCInsertIntoSQL.odx">
+      <TypeName>POCInsertIntoSQL</TypeName>
+      <Namespace>POC.BizTalk.AlwaysEncrypted</Namespace>
+      <SubType>Task</SubType>
+    </XLang>
     <Content Include="WcfReceivePort_SqlAdapterBinding_Custom.bindinginfo.xml" />
+    <Content Include="WcfSendPort_SqlAdapterBinding_Custom.bindinginfo.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SandroPereira.snk" />
+    <Schema Include="SQL_SimpleTypeArray.xsd">
+      <TypeName>SQL_SimpleTypeArray</TypeName>
+      <Namespace>POC.BizTalk.AlwaysEncrypted</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="SQL_Table.dbo.xsd">
+      <TypeName>SQL_Table_dbo</TypeName>
+      <Namespace>POC.BizTalk.AlwaysEncrypted</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
+    <Schema Include="SQL_TableOperation.dbo.Employee.xsd">
+      <TypeName>SQL_TableOperation_dbo_Employee</TypeName>
+      <Namespace>POC.BizTalk.AlwaysEncrypted</Namespace>
+      <SubType>Task</SubType>
+    </Schema>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\BizTalk\BizTalkC.targets" />
