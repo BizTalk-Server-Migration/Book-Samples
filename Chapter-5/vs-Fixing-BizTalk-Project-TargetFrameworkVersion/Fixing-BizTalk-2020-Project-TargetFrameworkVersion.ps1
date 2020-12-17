@@ -2,7 +2,7 @@
 cd 'C:\<BizTalk Solution Path'
 
 #Set BizTalk Project Deployment Properties
-$TargetFrameworkVersion= "v4.6";
+$TargetFrameworkVersion= "v4.7.2";
 
 #Control Properties (do not modify)
 $addNewNodeFlag = $true
