@@ -1,7 +1,8 @@
 # Extract a folder structure and automatically generate a PowerShell script to recreate the folder scturure on a different server with PowerShell
 
 ## Introduction
-Script to extract a list all subfolders under a target path and generate a PowerShell file containing all the PowerShell commands to recreate the folder structure in a diffent Server.
+Script to properly configure the Receive and Send handler in each port present in BizTalk Server environment for a specific adapter.
+#.
 
 Sample output into a ps1 file:
 	New-Item -ItemType Directory -Path "D:\BiztalkFilePorts\APP1"
