@@ -8,7 +8,7 @@ Chapter 1
   * [Analysis Services client libraries](https://docs.microsoft.com/en-us/analysis-services/client-libraries?view=azure-analysis-services-current)
   * [SQL Server 2016 Feature Pack](https://www.microsoft.com/download/details.aspx?id=52676)
   * [WinSCP](http://winscp.net/)
-* [Logic Apps](https://www.microsoft.com/en-us/download/details.aspx?id=54287)
+* [Logic App adapter](https://www.microsoft.com/en-us/download/details.aspx?id=54287)
 * [Step-by-Step Logic App Adapter Installation Guide](https://www.biztalk360.com/step-by-step-logic-app-adapter-installation-guide/)
 * [PowerShell to Configure TLS 1.2 as the default security protocol on BizTalk Server](https://github.com/sandroasp/BizTalk-Server-Resources/tree/master/PowerShell-scripts/adm-BTS-set-TLS1.2-default-security-protocol)
 * [BizTalk Server 2020: Hybrid Connectivity with Logic Apps Adapter ](https://www.biztalk360.com/whitepaper/hybrid-connectivity-with-azure-logic-apps-adapter/)
