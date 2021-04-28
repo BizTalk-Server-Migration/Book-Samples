@@ -18,7 +18,6 @@ Chapter 1
 * [Legacy SQL adapter](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/legacy-sql-adapter-deprecated/ba-p/1407055)
 * [Legacy SQL adapter download](https://www.microsoft.com/en-us/download/details.aspx?id=101313)
 * [SQLXML 4.0 SP1](https://www.microsoft.com/en-us/download/details.aspx?id=30403)
-* []()
 
 Chapter 2
 * [What's New in BizTalk Server 2020](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/whats-new-in-biztalk-server-2020)
