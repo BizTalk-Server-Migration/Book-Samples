@@ -27,3 +27,14 @@ Chapter 3
 * [Solving the TLS 1.0 Problem, 2nd Edition](https://docs.microsoft.com/en-us/security/engineering/solving-tls1-problem)
 * [How to Back Up Custom Databases](https://docs.microsoft.com/en-us/biztalk/core/how-to-back-up-custom-databases)
 * [Fixed Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/policies/fixed)
+
+Chapter 4
+* [Upgrading BizTalk 2013 to BizTalk 2020](https://notetoself.tech/2020/02/28/upgrading-biztalk-2013-to-biztalk-2020/)
+* [The BizTalk Server 2020 software requirements](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/hardware-and-software-requirements-for-biztalk-server-2020#software-requirements--supported-versions)
+* [Download Microsoft OLE DB Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver15)
+* [Visual C++ 2015-2019 Redistributable Package x86](https://aka.ms/vs/16/release/VC_redist.x86.exe)
+* [Visual C++ 2015-2019 Redistributable Package x64](https://aka.ms/vs/16/release/VC_redist.x64.exe)
+* [Create the SSIS Catalog](https://docs.microsoft.com/en-us/sql/integration-services/catalog/ssis-catalog?view=sql-server-ver15#create-the-ssis-catalog)
+* [Upgrade to BizTalk Server 2020 Appendix B: Known issues](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)
+* [WinSCP Download](https://sourceforge.net/projects/winscp/files/WinSCP/5.15.4/)
+
