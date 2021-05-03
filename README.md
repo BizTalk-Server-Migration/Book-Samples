@@ -37,4 +37,4 @@ Chapter 4
 * [Create the SSIS Catalog](https://docs.microsoft.com/en-us/sql/integration-services/catalog/ssis-catalog?view=sql-server-ver15#create-the-ssis-catalog)
 * [Upgrade to BizTalk Server 2020 Appendix B: Known issues](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)
 * [WinSCP Download](https://sourceforge.net/projects/winscp/files/WinSCP/5.15.4/)
-
+* [Enable and view BizTalk Server audit logs](https://docs.microsoft.com/en-us/biztalk/core/audit-management-operations)
