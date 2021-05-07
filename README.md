@@ -61,6 +61,7 @@ Chapter 5
 * [Change in scripting function boolean parameter behavior](https://docs.microsoft.com/en-us/troubleshoot/biztalk/change-scripting-function-boolean-parameter)
 * [What the BizTalk Server 2013 mapper updates mean for you](http://www.quicklearn.com/blog/2013/05/24/what-the-biztalk-server-2013-mapper-updates-mean-for-you/)
 * [Known issues in BizTalk Server 2013](https://docs.microsoft.com/en-us/troubleshoot/biztalk/known-issues-biztalk-server-2013)
+* [SSO Affiliate Applications](https://docs.microsoft.com/en-us/biztalk/core/sso-affiliate-applications)
 * [How to Export a Policy](https://docs.microsoft.com/en-us/biztalk/core/how-to-export-a-policy)
 * [How to Import a Policy](https://docs.microsoft.com/en-us/biztalk/core/how-to-import-a-policy)
 * [What Is BAM?](https://docs.microsoft.com/en-us/biztalk/core/what-is-bam)
