@@ -7,7 +7,7 @@ Chapter 1
   * [Microsoft OLE DB Driver for SQL Server](https://docs.microsoft.com/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver15) 
   * [Analysis Services client libraries](https://docs.microsoft.com/en-us/analysis-services/client-libraries?view=azure-analysis-services-current)
   * [SQL Server 2016 Feature Pack](https://www.microsoft.com/download/details.aspx?id=52676)
-  * [WinSCP](http://winscp.net/) [WinSCP Install Powershell script](https://www.phidiax.com/blog/post/biztalk-server-auto-install-script-for-sftp-requirement-of-winscp)
+  * [WinSCP](http://winscp.net/) or use the [WinSCP Install Powershell script](https://www.phidiax.com/blog/post/biztalk-server-auto-install-script-for-sftp-requirement-of-winscp)
 * [Logic App adapter](https://www.microsoft.com/en-us/download/details.aspx?id=54287)
 * [Step-by-Step Logic App Adapter Installation Guide](https://www.biztalk360.com/step-by-step-logic-app-adapter-installation-guide/)
 * [PowerShell to Configure TLS 1.2 as the default security protocol on BizTalk Server](https://github.com/sandroasp/BizTalk-Server-Resources/tree/master/PowerShell-scripts/adm-BTS-set-TLS1.2-default-security-protocol)
