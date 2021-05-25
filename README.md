@@ -82,3 +82,9 @@ Chapter 5
 * [PostMan](https://www.postman.com/)
 * [Performance Analysis of Logs (PAL) Tool](https://github.com/clinthuffman/PAL)
 * [Implementing Automated Testing](https://docs.microsoft.com/en-us/biztalk/technical-guides/implementing-automated-testing)
+
+Chapter 6
+* [Azure Integration Services](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-integration-services/Azure-Integration-Services-Whitepaper-v1-0.pdf)
+* [Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
+* [Azure global infrastructure](https://azure.microsoft.com/en-us/global-infrastructure/)
+* [Azure pricing](https://azure.microsoft.com/en-us/pricing/)
