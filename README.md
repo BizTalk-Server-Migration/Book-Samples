@@ -88,3 +88,4 @@ Chapter 6
 * [Service-level agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
 * [Azure global infrastructure](https://azure.microsoft.com/en-us/global-infrastructure/)
 * [Azure pricing](https://azure.microsoft.com/en-us/pricing/)
+* [Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
