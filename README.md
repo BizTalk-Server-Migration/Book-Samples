@@ -91,3 +91,4 @@ Chapter 6
 * [Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 * [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview#logic-app-concepts)
 * [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
+* [Event Grid](https://azure.microsoft.com/en-gb/resources/videos/introducing-azure-event-grid/)
