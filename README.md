@@ -92,3 +92,4 @@ Chapter 6
 * [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview#logic-app-concepts)
 * [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 * [Event Grid](https://azure.microsoft.com/en-gb/resources/videos/introducing-azure-event-grid/)
+* [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
