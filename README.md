@@ -93,3 +93,4 @@ Chapter 6
 * [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 * [Event Grid](https://azure.microsoft.com/en-gb/resources/videos/introducing-azure-event-grid/)
 * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+* [Set up Azure Monitor logs and collect diagnostics data for Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-log-analytics)
