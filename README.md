@@ -96,3 +96,4 @@ Chapter 6
 * [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
 * [How to integrate Azure API Management with Azure Application Insights](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights)
 * [Set up Azure Monitor logs and collect diagnostics data for Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-log-analytics)
+* [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts)
