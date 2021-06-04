@@ -93,5 +93,6 @@ Chapter 6
 * [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 * [Event Grid](https://azure.microsoft.com/en-gb/resources/videos/introducing-azure-event-grid/)
 * [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+* [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/introduction)
 * [How to integrate Azure API Management with Azure Application Insights](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights)
 * [Set up Azure Monitor logs and collect diagnostics data for Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-log-analytics)
