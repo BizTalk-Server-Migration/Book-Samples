@@ -97,3 +97,6 @@ Chapter 6
 * [How to integrate Azure API Management with Azure Application Insights](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights)
 * [Set up Azure Monitor logs and collect diagnostics data for Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/monitor-logic-apps-log-analytics)
 * [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts)
+* [Migrate machines as physical servers to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
+* [Migrate Hyper-V VMs to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
+* [Migrate VMware VMs to Azure (agentless)](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
