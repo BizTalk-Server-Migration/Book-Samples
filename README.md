@@ -100,3 +100,4 @@ Chapter 6
 * [Migrate machines as physical servers to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines)
 * [Migrate Hyper-V VMs to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
 * [Migrate VMware VMs to Azure (agentless)](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
+* [Azure Integration Migrator Tool](https://github.com/Azure/aimtool/blob/main/docs/README.md)
