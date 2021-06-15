@@ -101,3 +101,7 @@ Chapter 6
 * [Migrate Hyper-V VMs to Azure](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v)
 * [Migrate VMware VMs to Azure (agentless)](https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware)
 * [Azure Integration Migrator Tool](https://github.com/Azure/aimtool/blob/main/docs/README.md)
+* [Azure Integration Migrator BizTalk](https://github.com/Azure/aimbiztalk)
+* [Azure Integration Migrator Azure](https://github.com/Azure/aimazure)
+* [Azure Integration Migrator Model](https://github.com/Azure/aimmodel)
+* [Azure Integration Migrator Core](https://github.com/Azure/aimcore)
