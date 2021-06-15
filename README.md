@@ -22,6 +22,7 @@ Chapter 1
 Chapter 2
 * [What's New in BizTalk Server 2020](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/whats-new-in-biztalk-server-2020)
 * [Fixed Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/policies/fixed)
+* [Microsoft .NET Framework Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/microsoft-net-framework)
 
 Chapter 3
 * [Solving the TLS 1.0 Problem, 2nd Edition](https://docs.microsoft.com/en-us/security/engineering/solving-tls1-problem)
