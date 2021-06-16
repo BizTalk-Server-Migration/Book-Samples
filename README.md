@@ -28,6 +28,7 @@ Chapter 3
 * [Solving the TLS 1.0 Problem, 2nd Edition](https://docs.microsoft.com/en-us/security/engineering/solving-tls1-problem)
 * [How to Back Up Custom Databases](https://docs.microsoft.com/en-us/biztalk/core/how-to-back-up-custom-databases)
 * [Fixed Lifecycle Policy](https://docs.microsoft.com/en-us/lifecycle/policies/fixed)
+* [BizTalk NoS Ultimate](https://www.biztalk360.com/blog/biztalk-nos-ultimate-features-overview)
 
 Chapter 4
 * [Upgrading BizTalk 2013 to BizTalk 2020](https://notetoself.tech/2020/02/28/upgrading-biztalk-2013-to-biztalk-2020/)
