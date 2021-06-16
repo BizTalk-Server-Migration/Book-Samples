@@ -107,3 +107,4 @@ Chapter 6
 * [Azure Integration Migrator Azure](https://github.com/Azure/aimazure)
 * [Azure Integration Migrator Model](https://github.com/Azure/aimmodel)
 * [Azure Integration Migrator Core](https://github.com/Azure/aimcore)
+* [BizTalk Migration Tool (BTS to BTS)](https://docs.microsoft.com/en-us/archive/blogs/biztalk_server_team_blog/announcing-biztalk-server-migration-tool)
