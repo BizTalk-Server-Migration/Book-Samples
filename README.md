@@ -40,6 +40,8 @@ Chapter 4
 * [Upgrade to BizTalk Server 2020 Appendix B: Known issues](https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)
 * [WinSCP Download](https://sourceforge.net/projects/winscp/files/WinSCP/5.15.4/)
 * [Enable and view BizTalk Server audit logs](https://docs.microsoft.com/en-us/biztalk/core/audit-management-operations)
+* [Service Pack and cumulative update list for BizTalk Server](https://support.microsoft.com/en-us/topic/service-pack-and-cumulative-update-list-for-biztalk-server-108e5e94-4558-8b57-d5fb-45984506d56f)
+* [Cumulative Updates for Host Integration Server](https://docs.microsoft.com/en-us/host-integration-server/his-update-center)
 
 Chapter 5
 * [BizTalk Server Licensing](https://www.microsoft.com/licensing/terms/productoffering/BizTalkServer/EAEAS)
