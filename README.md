@@ -42,6 +42,7 @@ Chapter 4
 * [Enable and view BizTalk Server audit logs](https://docs.microsoft.com/en-us/biztalk/core/audit-management-operations)
 * [Service Pack and cumulative update list for BizTalk Server](https://support.microsoft.com/en-us/topic/service-pack-and-cumulative-update-list-for-biztalk-server-108e5e94-4558-8b57-d5fb-45984506d56f)
 * [Cumulative Updates for Host Integration Server](https://docs.microsoft.com/en-us/host-integration-server/his-update-center)
+* [Known issues with BizTalk Server 2020 RosettaNet accelerator (Part 1)](https://techcommunity.microsoft.com/t5/biztalk-server/known-issues-with-biztalk-server-2020-rosettanet-accelerator/m-p/1297603)
 
 Chapter 5
 * [BizTalk Server Licensing](https://www.microsoft.com/licensing/terms/productoffering/BizTalkServer/EAEAS)
