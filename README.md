@@ -87,6 +87,7 @@ Chapter 5
 * [PostMan](https://www.postman.com/)
 * [Performance Analysis of Logs (PAL) Tool](https://github.com/clinthuffman/PAL)
 * [Implementing Automated Testing](https://docs.microsoft.com/en-us/biztalk/technical-guides/implementing-automated-testing)
+* [BizTalk Server Accelerator for SWIFT - Message Pack 2020](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/swift-message-pack-for-biztalk-server/ba-p/1868467)
 
 Chapter 6
 * [Azure Integration Services](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-integration-services/Azure-Integration-Services-Whitepaper-v1-0.pdf)
