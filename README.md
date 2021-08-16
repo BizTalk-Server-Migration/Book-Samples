@@ -50,6 +50,7 @@ Chapter 5
 * [SQL Server 2016 Analysis Services ADOMD.NET (Not available anymore, find newer version)](https://www.microsoft.com/download/details.aspx?id=52676)
 * [WinSCP Download](https://sourceforge.net/projects/winscp/files/WinSCP/5.15.4/)
 * [Cumulative Update 1 for Microsoft BizTalk Server 2020](https://support.microsoft.com/en-gb/help/4538666/cumulative-update-1-for-microsoft-biztalk-server-2020)
+* [Cumulative Update 2 for Microsoft BizTalk Server 2020](https://support.microsoft.com/en-us/topic/kb5003151-cumulative-update-2-for-microsoft-biztalk-server-2020-324a3d5d-8d87-49aa-b7e4-1f0733acbb09)
 * [Migrate BizTalk Projects to the SQL adapter](https://docs.microsoft.com/en-us/biztalk/adapters-and-accelerators/adapter-sql/tutorial-1-migrate-biztalk-projects-to-the-sql-adapter)
 * [Legacy SQL Adapter (Deprecated)](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/legacy-sql-adapter-deprecated/ba-p/1407055)
 * [Known issues in BizTalk Server 2013](https://docs.microsoft.com/en-us/troubleshoot/biztalk/known-issues-biztalk-server-2013)
